@@ -49,7 +49,7 @@
 📫 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=flat-square)](www.linkedin.com/in/sujal-desai-419918301)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](sujaldesai4903@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sujaldesai4903@gmail.com)
 
 ---
 
