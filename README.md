@@ -9,7 +9,7 @@
 
 🌟 **About Me**
 
-- 🎓 CSE Student @ [Your College Name]
+- 🎓 CSE Student @ Vidush Somany Institute of Technology and Research
 - 💻 I love building **full-stack web apps** & exploring **React, Node.js, MongoDB**
 - 🔭 Currently working on: **Dental Clinic Dashboard (React + Express + MongoDB)**
 - ⚡ Fun fact: I turn caffeine into code ☕
@@ -48,7 +48,7 @@
 
 📫 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=flat-square)](https://linkedin.com/in/sujaldesai)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=flat-square)](www.linkedin.com/in/sujal-desai-419918301)  
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sujaldesai4903@gmail.com)
 
 ---
