@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Desai</h1>
+#<h1 align="center">Hi 👋, I'm Sujal Desai</h1>
 <h3 align="center">A passionate Full Stack Developer & CSE student from Gandhinagar</h3>
 
 <p align="center">
